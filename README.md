@@ -5,7 +5,6 @@
 ---
 [website](https://michaelrappa.github.io/DH-assignment1)
 
-[index](https://michaelrappa.github.io/DH-assignment1/index)
 
 Michael Rappa
 
