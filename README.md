@@ -2,7 +2,7 @@
 
 ---
 
-[Website](https://michaelrappa.github.io/DH-assignment1/)
+[Website](https://michaelrappa.github.io/DH-assignment1/index)
 
 Michael Rappa
 
