@@ -2,8 +2,6 @@
 
 ---
 
-* point 1
-* point 2
-* point 3
+[Website](https://michaelrappa.github.io/DH-assignment1/)
 
 Michael Rappa
