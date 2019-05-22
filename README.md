@@ -1,8 +1,9 @@
 # DH-assignment1
 
 ---
+[website](https://michaelrappa.github.io/DH-assignment1)
 
-[Website](https://michaelrappa.github.io/DH-assignment1/index)
+[index](https://michaelrappa.github.io/DH-assignment1/index)
 
 Michael Rappa
 
